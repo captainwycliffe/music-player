@@ -8,7 +8,7 @@ simple music player using html and javascript
 -happyrock
 
 ## function to play the song
-The fucntion runs to play any of the three songs
+The function runs to play any of the three songs
 ``` javascript
 // Play Song
 function playSong() {

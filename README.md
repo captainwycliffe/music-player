@@ -1,13 +1,13 @@
-# music-player
+## Music-Player
 simple music player using html and javascript
 
 
-## songs in the music player
+### songs in the music player
 -ukulele
 -jazzyfrenchy
 -happyrock
 
-## function to play the song
+### function to play the song
 The function runs to play any of the three songs
 ``` javascript
 // Play Song
@@ -18,7 +18,7 @@ playBtn.querySelector("i.fa").classList.add("fa-pause");
 audio.play();
 }
 ```
-## function to pause the song
+### function to pause the song
 
 Below is a javascript function used to play the song.
 ``` javascript

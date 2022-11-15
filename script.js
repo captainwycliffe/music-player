@@ -27,7 +27,7 @@ playBtn.querySelector("i.fa").classList.add("fa-pause");
 audio.play();
 }
 // Pause Song
-function pauseSong() {
+function  pauseSong() {
 musicContainer.classList.remove("play");
 playBtn.querySelector("i.fa").classList.add("fa-play");
 playBtn.querySelector("i.fa").classList.remove("fa-pause");

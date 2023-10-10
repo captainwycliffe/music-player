@@ -1,11 +1,15 @@
 ## Music-Player
-simple music player using html and javascript
+
+Introducing the Ultimate Music Player – Your Gateway to Sonic Bliss!
+
+Welcome to the future of music enjoyment with our cutting-edge Music Player project. Packed with features and a growing library of incredible tunes, this is your go-to source for immersive audio experiences. Although we currently offer four phenomenal songs, stay tuned because our collection is continually expanding to elevate your musical journey!
 
 
 ### songs in the music player
--ukulele
--jazzyfrenchy
--happyrock
+-Take Care
+-Fetch Your Life
+-Sky Walker
+-Famous
 
 ### function to play the song
 The function runs to play any of the three songs
